@@ -170,7 +170,17 @@ Movie Recommendation System
 
 ## Screenshots
 
-Use the `screenshots/` folder to save UI screenshots or model output images after running the project locally.
+### Movie discovery
+
+![FRAME movie discovery catalog](screenshots/01-movie-catalog.png)
+
+### Popular movies
+
+![Popular movie posters](screenshots/02-popular-movies.png)
+
+### Film details
+
+![Movie detail view](screenshots/03-film-details.png)
 
 ## Future improvements
 
