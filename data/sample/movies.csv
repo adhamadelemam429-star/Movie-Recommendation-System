@@ -1,0 +1,31 @@
+movieId,title,genres,year,language,country,is_foreign,poster_url
+1,Inception,Action|Sci-Fi,2010,English,USA,False,https://media.themoviedb.org/t/p/w300_and_h450_face/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg
+2,The Dark Knight,Action|Crime|Drama,2008,English,USA,False,https://media.themoviedb.org/t/p/w300_and_h450_face/qJ2tW6WMUDux911r6m7haRef0WH.jpg
+3,Interstellar,Adventure|Sci-Fi|Drama,2014,English,USA,False,https://media.themoviedb.org/t/p/w300_and_h450_face/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg
+4,The Matrix,Action|Sci-Fi,1999,English,USA,False,https://media.themoviedb.org/t/p/w300_and_h450_face/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg
+5,Pulp Fiction,Crime|Drama,1994,English,USA,False,https://media.themoviedb.org/t/p/w300_and_h450_face/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg
+6,The Lord of the Rings,Adventure|Fantasy,2001,English,New Zealand,False,https://media.themoviedb.org/t/p/w300_and_h450_face/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg
+7,Toy Story,Animation|Children|Comedy,1995,English,USA,False,https://media.themoviedb.org/t/p/w300_and_h450_face/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg
+8,Finding Nemo,Animation|Adventure|Children,2003,English,USA,False,https://media.themoviedb.org/t/p/w300_and_h450_face/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg
+9,The Godfather,Crime|Drama,1972,English,USA,False,https://media.themoviedb.org/t/p/w300_and_h450_face/3bhkrj58Vtu7enYsRolD1fZdja1.jpg
+10,Avatar,Action|Adventure|Sci-Fi,2009,English,USA,False,https://media.themoviedb.org/t/p/w300_and_h450_face/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg
+11,Forrest Gump,Comedy|Drama|Romance,1994,English,USA,False,https://media.themoviedb.org/t/p/w300_and_h450_face/saHP97rTPS5eLmrLQEcANmKrsFl.jpg
+12,Shrek,Animation|Comedy|Fantasy,2001,English,USA,False,https://media.themoviedb.org/t/p/w300_and_h450_face/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg
+13,Parasite,Drama|Thriller,2019,Korean,South Korea,True,https://media.themoviedb.org/t/p/w300_and_h450_face/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg
+14,Spirited Away,Animation|Fantasy,2001,Japanese,Japan,True,https://media.themoviedb.org/t/p/w300_and_h450_face/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg
+15,Amélie,Comedy|Romance,2001,French,France,True,https://media.themoviedb.org/t/p/w300_and_h450_face/nSxDa3M9aMvGVLoItzWTepQ5h5d.jpg
+16,The Lives of Others,Drama|History,2006,German,Germany,True,https://media.themoviedb.org/t/p/w300_and_h450_face/cVUDMnskSc01rdbyH0tLATTJUdP.jpg
+17,The Intouchables,Comedy|Drama,2011,French,France,True,https://media.themoviedb.org/t/p/w300_and_h450_face/1QU7HKgsQbGpzsJbJK4pAVQV9F5.jpg
+18,Your Name,Animation|Drama|Romance,2016,Japanese,Japan,True,https://media.themoviedb.org/t/p/w300_and_h450_face/vfJFJPepRKapMd5G2ro7klIRysq.jpg
+19,Roma,Drama,2018,Spanish,Mexico,True,https://media.themoviedb.org/t/p/w300_and_h450_face/dtIIyQyALk57ko5bjac7hi01YQ.jpg
+20,The Silent Sea,Drama|Sci-Fi|Thriller,2021,Korean,South Korea,True,assets/posters/20-the-silent-sea.svg
+21,A Quiet Place: Day One,Drama|Horror|Sci-Fi,2024,English,USA,False,assets/posters/21-a-quiet-place-day-one.svg
+22,The Book of Clarence,Comedy|Drama,2024,English,USA,False,assets/posters/22-the-book-of-clarence.svg
+23,La Dolce Villa,Comedy|Romance,2025,Italian,Italy,True,assets/posters/23-la-dolce-villa.svg
+24,The Boy and the Heron,Animation|Adventure|Drama,2023,Japanese,Japan,True,https://media.themoviedb.org/t/p/w300_and_h450_face/f4oZTcfGrVTXKTWg157AwikXqmP.jpg
+25,A Glass of Water,Drama|Romance,2025,Arabic,Egypt,True,assets/posters/25-a-glass-of-water.svg
+26,The Last Supper,Drama|Mystery,2025,Spanish,Spain,True,assets/posters/26-the-last-supper.svg
+27,Snow and the Bear,Drama|Adventure,2025,French,France,True,assets/posters/27-snow-and-the-bear.svg
+28,Summer Palace 2025,Drama|Romance,2025,Chinese,China,True,assets/posters/28-summer-palace-2025.svg
+29,After the Rain,Drama|Romance,2025,Korean,South Korea,True,assets/posters/29-after-the-rain.svg
+30,Metro 2035,Sci-Fi|Thriller,2025,German,Germany,True,assets/posters/30-metro-2035.svg

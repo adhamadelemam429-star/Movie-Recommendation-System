@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="600" viewBox="0 0 400 600">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f766e"/>
+      <stop offset="100%" stop-color="#14b8a6"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#grad)"/>
+  <rect x="18" y="18" width="364" height="564" rx="18" fill="rgba(15,23,42,0.18)" stroke="rgba(255,255,255,0.22)"/>
+  <text x="200" y="270" font-size="32" font-weight="700" text-anchor="middle" fill="white" font-family="Arial, sans-serif">Summer Palace 2025</text>
+  <text x="200" y="330" font-size="16" text-anchor="middle" fill="rgba(255,255,255,0.78)" font-family="Arial, sans-serif">Movie Recommendation</text>
+</svg>
